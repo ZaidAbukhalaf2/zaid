@@ -1,0 +1,202 @@
+.animated-gradient-background{
+    background-color:  #434242;
+    width: 100%;
+    border: 0.5px solid  #434242;
+    border-radius: 15px;
+}
+
+
+.animated-laravel {
+    background: linear-gradient(90deg, var(--main-color) , var(--title-color));
+    width: 0%;
+    height: 8px;
+     /* animation: gradient-Laravel 750ms forwards; */
+     animation-name: gradient-laravel;
+     animation-duration: 750ms;
+     animation-delay: 0ms;
+     animation-fill-mode: forwards;
+     animation-timing-function: ease-in;
+    border-radius: 15px;
+  }
+  
+  @keyframes gradient-laravel { 
+    from{
+        width: 0%;
+    }
+    to{
+        width: 75%;
+    }
+  }
+
+  
+.animated-mysql {
+    background: linear-gradient(90deg, var(--main-color) , var(--title-color));
+    width: 0%;
+    height: 8px;
+    /* animation: gradient-kotlin 750ms forwards; */
+    animation-name: gradient-mysql;
+    animation-duration: 750ms;
+    animation-delay: 250ms;
+    animation-fill-mode: forwards;
+    animation-timing-function: ease-in;
+    border-radius: 15px;
+  }
+  
+  @keyframes gradient-mysql { 
+    from{
+        width: 0%;
+    }
+    to{
+        width: 85%;
+    }
+  }
+
+
+  
+.animated-oop {
+    background: linear-gradient(90deg, var(--main-color) , var(--title-color));
+    width: 0%;
+    height: 8px;
+     /* animation: gradient-firebase 750ms forwards; */
+     animation-name: gradient-oop;
+     animation-duration: 750ms;
+     animation-delay: 350ms;
+     animation-fill-mode: forwards;
+     animation-timing-function: ease-in;
+    border-radius: 15px;
+  }
+  
+  @keyframes gradient-oop { 
+    from{
+        width: 0%;
+    }
+    to{
+        width: 65%;
+    }
+  }
+
+
+  
+.animated-git {
+    background: linear-gradient(90deg, var(--main-color) , var(--title-color));
+    width: 0%;
+    height: 8px;
+    /* animation: gradient-git 750ms forwards; */
+    animation-name: gradient-git;
+    animation-duration: 750ms;
+    animation-delay: 450ms;
+    animation-fill-mode: forwards;
+    animation-timing-function: ease-in;
+    border-radius: 15px;
+  }
+  
+  @keyframes gradient-git { 
+    from{
+        width: 0%;
+    }
+    to{
+        width: 75%;
+    }
+  }
+
+
+  
+.animated-bootstrap {
+    background: linear-gradient(90deg, var(--main-color) , var(--title-color));
+    width: 0%;
+    height: 8px;
+    /* animation: gradient-sql 750ms forwards; */
+    animation-name: gradient-bootstrap;
+    animation-duration: 750ms;
+    animation-delay: 0ms;
+    animation-fill-mode: forwards;
+    animation-timing-function: ease-in;
+    border-radius: 15px;
+  }
+  
+  @keyframes gradient-bootstrap { 
+    from{
+        width: 0%;
+    }
+    to{
+        width: 80%;
+    }
+  }
+
+
+  
+.animated-css {
+    background: linear-gradient(90deg, var(--main-color) , var(--title-color));
+    width: 0%;
+    height: 8px;
+    /* animation: gradient-github 750ms forwards; */
+    animation-name: gradient-css;
+    animation-duration: 750ms;
+    animation-delay: 250ms;
+    animation-fill-mode: forwards;
+    animation-timing-function: ease-in;
+    border-radius: 15px;
+  }
+  
+  @keyframes gradient-css { 
+    from{
+        width: 0%;
+    }
+    to{
+        width: 80%;
+    }
+  }
+
+
+  
+.animated-html {
+    background: linear-gradient(90deg, var(--main-color) , var(--title-color));
+    width: 0%;
+    height: 8px;
+    /* animation: gradient-testing 750ms forwards; */
+    animation-name: gradient-html;
+    animation-duration: 750ms;
+    animation-delay: 350ms;
+    animation-fill-mode: forwards;
+    animation-timing-function: ease-in;
+    border-radius: 15px;
+  }
+  
+  @keyframes gradient-html { 
+    from{
+        width: 0%;
+    }
+    to{
+        width: 85%;
+    }
+  }
+
+
+  
+.animated-jquery {
+    background: linear-gradient(90deg, var(--main-color) , var(--title-color));
+    width: 0%;
+    height: 8px;
+    /* animation: gradient-compose 750ms forwards; */
+    animation-name: gradient-jquery;
+    animation-duration: 750ms;
+    animation-delay: 450ms;
+    animation-fill-mode: forwards;
+    animation-timing-function: ease-in;
+    border-radius: 15px;
+  }
+  
+  @keyframes gradient-jquery  { 
+    from{
+        width: 0%;
+    }
+    to{
+        width: 45%;
+    }
+  }
+
+
+
+
+
+    

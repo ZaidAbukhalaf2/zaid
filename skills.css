@@ -9,7 +9,7 @@
 .animated-laravel {
     background: linear-gradient(90deg, var(--main-color) , var(--title-color));
     width: 0%;
-    height: 8px;
+    height: 8px; 
      /* animation: gradient-Laravel 750ms forwards; */
      animation-name: gradient-laravel;
      animation-duration: 750ms;
